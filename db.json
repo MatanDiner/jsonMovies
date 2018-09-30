@@ -8,7 +8,7 @@
      "Runtime": "125 min",
      "Genre": "Biography, Crime, Drama",
      "Director": "Sidney Lumet",
-	img:"../../../assets/images/Dog Day Afternoon.jpg"
+	"img":"../../../assets/images/Dog Day Afternoon.jpg"
 },
 
 {
@@ -18,7 +18,7 @@
     "Runtime": "150 min",
     "Genre": "Crime",
     "Director": "Sidney Lumet",
-	img:"../../../assets/images/batman.jpg"
+	"img":"../../../assets/images/batman.jpg"
 },
 
 {
@@ -28,7 +28,7 @@
     "Runtime": "100 min",
     "Genre": "action",
     "Director": "Sidney Lumet",
-	img:"../../../assets/images/xman.jpg"
+	"img":"../../../assets/images/xman.jpg"
 },
 {
     "id":"4",
@@ -37,7 +37,7 @@
     "Runtime": "125 min",
     "Genre": "Biography,Drama",
     "Director": "Sidney Lumet",
-	img:"../../../assets/images/Titanic.jpg"
+	"img":"../../../assets/images/Titanic.jpg"
 },
 {
     "id":"5",
@@ -46,7 +46,7 @@
     "Runtime": "130 min",
     "Genre": "action",
     "Director": "Sidney Lumet",
-	img:"../../../assets/images/spiderman.jpg"
+	"img":"../../../assets/images/spiderman.jpg"
 },
 {
     "id":"6",
@@ -55,7 +55,7 @@
     "Runtime": "140 min",
     "Genre": "Drama",
     "Director": "Sidney Lumet",
-	img:"../../../assets/images/Snow White.jpg"
+	"img":"../../../assets/images/Snow White.jpg"
 },
 {
     "id":"7",
@@ -64,7 +64,7 @@
     "Runtime": "120 min",
     "Genre": "Drama",
     "Director": "Sidney Lumet",
-	img:"../../../assets/images/Cinderella.jpg"
+	"img":"../../../assets/images/Cinderella.jpg"
 },
 {
     "id":"8",
@@ -73,7 +73,7 @@
     "Runtime": "100 min",
     "Genre": "action",
     "Director": "Sidney Lumet",
-	img:"../../../assets/images/The Little Mermaid.jpg"
+	"img":"../../../assets/images/The Little Mermaid.jpg"
 },
 {
     "id":"9",
@@ -82,7 +82,7 @@
     "Runtime": "120 min",
     "Genre": "action",
     "Director": "Sidney Lumet",
-	img:"../../../assets/images/The Lion King.jpg"
+	"img":"../../../assets/images/The Lion King.jpg"
 },
 {
     "id":"10",
@@ -91,7 +91,7 @@
     "Runtime": "100 min",
     "Genre": "action",
     "Director": "Sidney Lumet",
-	img:"../../../assets/images/Aladdin.jpg"
+	"img":"../../../assets/images/Aladdin.jpg"
 },
 {
     "id":"11",
@@ -100,7 +100,7 @@
     "Runtime": "100 min",
     "Genre": "Action,Adventure ,Fantasy",
     "Director": "Sidney Lumet",
-	img:"../../../assets/images/Harry Potter.jpg"
+	"img":"../../../assets/images/Harry Potter.jpg"
 },
 {
     "id":"12",
@@ -109,7 +109,7 @@
     "Runtime": "150 min",
     "Genre": "action",
     "Director": "Sidney Lumet",
-	img:"../../../assets/images/Troy.jpg"
+	"img":"../../../assets/images/Troy.jpg"
 },
 {
     "id":"13",
@@ -118,7 +118,7 @@
     "Runtime": "100 min",
     "Genre": "Action,Adventure",
     "Director": "Sidney Lumet",
-	img:"../../../assets/images/Robin Hood.jpg"
+	"img":"../../../assets/images/Robin Hood.jpg"
 },
 {
     "id":"14",
@@ -127,7 +127,7 @@
     "Runtime": "130 min",
     "Genre": "Action,Adventure ,Fantasy",
     "Director": "Sidney Lumet",
-	img:"../../../assets/images/Peter Pan.jpg"
+	"img":"../../../assets/images/Peter Pan.jpg"
 },
 {
     "id":"15",
@@ -136,7 +136,7 @@
     "Runtime": "140 min",
     "Genre": "action",
     "Director": "Sidney Lumet",
-	img:"../../../assets/images/Lord of the Rings.jpg"
+	"img":"../../../assets/images/Lord of the Rings.jpg"
 },
 {
     "id":"16",
@@ -145,7 +145,7 @@
     "Runtime": "100 min",
     "Genre": "action",
     "Director": "Sidney Lumet",
-	img:"../../../assets/images/Venom.jpg"
+	"img":"../../../assets/images/Venom.jpg"
 },
 {
     "id":"17",
@@ -154,7 +154,7 @@
     "Runtime": "150 min",
     "Genre": "fear",
     "Director": "Sidney Lumet",
-	img:"../../../assets/images/slenderman.jpg"
+	"img":"../../../assets/images/slenderman.jpg"
 },
 {
     "id":"18",
@@ -163,7 +163,7 @@
     "Runtime": "100 min",
     "Genre": "Action,Adventure ,Fantasy",
     "Director": "Sidney Lumet",
-	img:"../../../assets/images/Aquaman.jpg"
+	"img":"../../../assets/images/Aquaman.jpg"
 },
 {
     "id":"19",
@@ -172,7 +172,7 @@
     "Runtime": "120 min",
     "Genre": "Action,Adventure ,Fantasy",
     "Director": "Sidney Lumet",
-	img:"../../../assets/images/Antman.jpg"
+	"img":"../../../assets/images/Antman.jpg"
 },
 {
     "id":"20",
@@ -181,7 +181,7 @@
     "Runtime": "120 min",
     "Genre": "Action,Adventure ,Fantasy",
     "Director": "Sidney Lumet",
-	img:"../../../assets/images/Thor.jpg"
+	"img":"../../../assets/images/Thor.jpg"
 }
 
     ]
