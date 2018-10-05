@@ -13,7 +13,7 @@
 
 {
     "id":"2",
-       "Title": "batman",
+       "Title": "Batman",
     "Year": "2012",
     "Runtime": "150 min",
     "Genre": "Crime",
@@ -23,7 +23,7 @@
 
 {
     "id":"3",
-       "Title": "xman",
+       "Title": "Xman",
     "Year": "2016",
     "Runtime": "100 min",
     "Genre": "action",
@@ -41,7 +41,7 @@
 },
 {
     "id":"5",
-       "Title": "spiderman",
+       "Title": "Spiderman",
     "Year": "2008",
     "Runtime": "130 min",
     "Genre": "action",
@@ -131,7 +131,7 @@
 },
 {
     "id":"15",
-       "Title": "Lord of the Rings",
+       "Title": "Lord Of The Rings",
     "Year": "2006",
     "Runtime": "140 min",
     "Genre": "action",
@@ -149,7 +149,7 @@
 },
 {
     "id":"17",
-       "Title": "slenderman",
+       "Title": "Slenderman",
     "Year": "2018",
     "Runtime": "150 min",
     "Genre": "fear",
